@@ -1,1 +1,1 @@
-print("Hello world from GIT python")
+print("Hello world from GIT python3 version")
